@@ -1,0 +1,3 @@
+[submodule "src/externals/spot_ros2"]
+	path = src/externals/spot_ros2
+	url = https://github.com/bdaiinstitute/spot_ros2.git
